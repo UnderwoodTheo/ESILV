@@ -42,7 +42,9 @@ We tested 6 different models:
 
 Ater tuning them the best one is Support Vector 
 Classification (SVC) with a 90% accuracy. 
-## Screenshots
+## Visualization 
+
+Entiere notebook with all the plots: https://nbviewer.org/github/UnderwoodTheo/ESILV/blob/main/PythonForDataAnalysis/python_project.ipynb
 
 Accuracy before and after tuning
 
